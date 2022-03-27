@@ -11,6 +11,7 @@
   inputs.src-gnu-main.ref   = "refs/heads/main";
   inputs.src-gnu-main.owner = "tonogram";
   inputs.src-gnu-main.repo  = "gnu";
+  inputs.src-gnu-main.dir   = "";
   inputs.src-gnu-main.type  = "github";
   
   inputs."godot".owner = "nim-nix-pkgs";
