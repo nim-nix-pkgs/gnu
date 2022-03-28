@@ -11,7 +11,6 @@
   inputs.src-gnu-v0_1_1.ref   = "refs/tags/v0.1.1";
   inputs.src-gnu-v0_1_1.owner = "tonogram";
   inputs.src-gnu-v0_1_1.repo  = "gnu";
-  inputs.src-gnu-v0_1_1.dir   = "";
   inputs.src-gnu-v0_1_1.type  = "github";
   
   inputs."godot".owner = "nim-nix-pkgs";
